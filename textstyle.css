@@ -3,11 +3,11 @@
 
 
 h1{
-    color:red;
+    color:yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:30px;
     font-weight:normal;  /* bold,bolder,normal,lighter */
     font-style:normal;    /*normal,italic*/
-    font-family:Fasthand;
     text-align: center;     /*left,centre,right*/
     text-transform:capitalize;      /*uppercase,lowercase,capitalise*/
     /* text-decoration: underline black 5px wavy;
