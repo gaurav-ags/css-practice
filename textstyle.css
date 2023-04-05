@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Oswald&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+
+
+h1{
+    color:red;
+    font-size:30px;
+    font-weight:normal;  /* bold,bolder,normal,lighter */
+    font-style:normal;    /*normal,italic*/
+    font-family:Fasthand;
+    text-align: center;     /*left,centre,right*/
+    text-transform:capitalize;      /*uppercase,lowercase,capitalise*/
+    /* text-decoration: underline black 5px wavy;
+    text-decoration-color: black;
+    text-decoration-style: dotted; */
+    text-shadow:10px 10px 10px black;
+
+}
+p{
+    font-size:30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family:Oswald;
+}
+
