@@ -1,0 +1,45 @@
+h1{
+    color: crimson;
+    /* text-align: center; */
+    /* background-color: black; */
+}
+h1:active{
+    color:black;
+    background-color: crimson;
+    letter-spacing: 5px;
+    transition: 1s;
+
+}
+button{
+    color: crimson;
+    background-color: white;
+    border-radius: 0px;
+}
+button:hover{
+    background-color: crimson;
+    color: white;
+    border-radius: 20px;
+}
+input{
+    color: crimson;
+}
+div{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    transition: 3s;
+}
+div:hover{
+    background-color: gold;
+    border-radius: 50%;
+    transition: 3s;
+}
+input{
+    background-color: aquamarine;
+    border: solid 5px black;
+}
+input:focus{
+    background-color: yellow;
+    border:dotted 5px black;
+}

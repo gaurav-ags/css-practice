@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: SFProDisplay-Regular,
+    Helvetica, Arial, sans-serif;
+}
+section{
+    background-color:rgb(234, 234, 234);
+    width: 100vw;
+    height: 100vh;
+}
+img{
+    width: 300px;
+    height: 106px;
+}
+p{
+    color: black;
+    font-size: 26px;
+    margin-left: 25px;
+}
+#form-box{
+    text-align:center;
+    background-color: white;
+    width: 396px;
+    height: 396px;
+    margin: 20px auto;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.53);
+    box-sizing: border-box;
+}
+input{
+    background-color: white;
+    width:364px;
+    height: 52px;
+    margin-bottom: 15px;
+    padding-left:15px;
+    border:solid 1px rgb(205, 205, 205) ;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+input:focus{
+    border: solid 1px ;
+}
+#login-btn{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #1877f2;
+    width:364px;
+    height: 52px;
+    margin-bottom: 15px;
+    border:solid 1px #1877f2;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+a{
+    color: #1877f2;
+    text-decoration: none;
+}
+hr{
+    margin: 25px 0px;
+}
+#signup-btn{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #42b72a;
+    width:192px;
+    height: 48px;
+    margin-bottom: 15px;
+    border:solid 1px #42b72a;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+#signup-btn:hover{
+    background-color: #1a8504;
+    border: solid 1px#1a8504 ;
+    transition: 0.2s;
+}
+a:hover{
+    text-decoration: underline;
+}

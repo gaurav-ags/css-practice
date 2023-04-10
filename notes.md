@@ -35,5 +35,9 @@ background in css
 text styling 
 1.text property
 2.font property
-
-
+-------------------------------------------------------
+seclector
+1.universal *
+2. type (tag)
+3. class (.cn)
+4.id (#IN)

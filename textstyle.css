@@ -4,6 +4,7 @@
 
 h1{
     color:yellow;
+    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:30px;
     font-weight:normal;  /* bold,bolder,normal,lighter */
@@ -21,5 +22,10 @@ p{
     font-weight: bold;
     font-style: italic;
     font-family:Oswald;
+    text-align: left;
+    text-indent: 20px;
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    
 }
 
